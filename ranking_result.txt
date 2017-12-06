@@ -1,0 +1,71 @@
+Berkeley
+1	Hotel Shattuck Plaza		2cf58803-f1f0-49ca-a24a-2201ebd2a618	trust_score: 85       reviews count: 718
+2	Hotel Berkeley City Club		83060876-2aa3-485f-bda6-6164895eaa9d	trust_score: 83       reviews count: 311
+3	Holiday Inn Express Hotel & Suites Berkeley		df61801b-ed39-47ae-9220-0fb3b141b9d0	trust_score: 81       reviews count: 337
+4	DoubleTree by Hilton Berkeley Marina		59ecc4ff-c981-4c4a-a49c-4440a084c99a	trust_score: 79       reviews count: 1475
+5	Rose Garden Inn		3bf4ed3b-41d0-4e77-aa43-b0f1798f1194	trust_score: 79       reviews count: 302
+6	Rodeway Inn - Berkeley		218f8be2-9864-4630-a3cb-8b3440f4eeb9	trust_score: 78       reviews count: 589
+7	The Claremont Hotel Club & Spa		d6a2b0bc-2858-4d0c-a4da-f9290627b82f	trust_score: 75       reviews count: 1075
+8	Super 8 Berkeley		778b5447-0523-4380-b3e3-132676d171cf	trust_score: 73       reviews count: 694
+9	Hotel Vista Inn Berkeley		c7cdb632-dae3-4c44-a9cc-2c5e6b6ba0a7	trust_score: 75       reviews count: 66
+10	Knights Inn Berkeley CA		7172138a-aa64-44de-b986-f616cfb60da6	trust_score: 70       reviews count: 169
+11	La Quinta Inn Berkeley		6ef6c292-1feb-412a-8397-66bcd3fd58bd	trust_score: 69       reviews count: 642
+12	Americas Best Value Inn Golden Bear Inn		3d03d9cb-7d4d-4a6a-b509-3de1fa10d961	trust_score: 69       reviews count: 291
+13	Americas Best Value Inn-Berkeley / San Francisco		0bb74b75-e78b-477f-bec7-516c69507f32	trust_score: 69       reviews count: 101
+14	BEST WESTERN Hotel University Inn Berkeley		af0bbf95-e8e3-4d02-a06a-d97da5ec11cb	trust_score: 64       reviews count: 156
+15	Berkeley Travelodge		e3ee5366-2c55-4e7b-a21a-9c561a200667	trust_score: 63       reviews count: 413
+16	Berkeley Inn		ee004516-88a5-4cd3-ac3e-cbca261b4c03	trust_score: 59       reviews count: 341
+17	The Beau Sky Hotel		582e5ca7-c44b-4f62-b5d7-28bbdbbc179a	trust_score: 45       reviews count: 21
+
+
+San Francisco
+1	Hotel Drisco		fb45ba06-91ca-4575-a8b5-5388d58bc9f6	trust_score: 95       reviews count: 247
+2	Inn San Francisco		0176a4a5-8079-4f5d-bbed-9eb370ce7e4e	trust_score: 96       reviews count: 124
+3	Omni San Francisco Hotel		c051df71-83eb-4851-871f-39df47831b71	trust_score: 91       reviews count: 2253
+4	The Inn at Union Square		2accc1d8-348c-47c9-b939-7244d804b23e	trust_score: 92       reviews count: 592
+5	Argonaut San Francisco - A Kimpton Hotel		8b5c3352-69ab-45f7-909f-6eb07f52b9b1	trust_score: 89       reviews count: 3304
+6	The Huntington Hotel & Nob Hill Spa		1b4f8074-77a9-4e50-a915-6e3e6ae5003f	trust_score: 89       reviews count: 1437
+7	Hotel Inn At Oyster Point		6f0b9ae5-fca8-452c-8a66-a53b9821ea52	trust_score: 90       reviews count: 475
+8	Fairmont Heritage Place, Ghirardelli Square		fb9f191a-ea3d-4ece-9898-d56eaee8741a	trust_score: 90       reviews count: 423
+9	White Swan Inn		5eab709d-6cac-46e9-a3f3-0afd1e84938d	trust_score: 89       reviews count: 575
+10	The Donatello		9f8b54db-9de7-439f-bc06-8268fbbe78f9	trust_score: 88       reviews count: 1484
+11	Orchard Hotel		4ec57397-d0f5-416a-b450-83c84b8d5b63	trust_score: 88       reviews count: 1429
+12	Hotel Zetta San Francisco		7e7e4250-60e5-4e95-9d2b-e08ec5ddcd1f	trust_score: 88       reviews count: 1034
+13	Four Seasons Hotel San Francisco		2b473e05-47ba-4075-895f-2161ce3e028c	trust_score: 89       reviews count: 387
+14	Grand Hyatt San Francisco		960137af-edef-488b-bf76-cc474de29361	trust_score: 87       reviews count: 2273
+15	The Donatello		562696d4-9ba2-4348-b12e-4f5ea5f9321b	trust_score: 87       reviews count: 1537
+16	The St. Regis San Francisco		bbaf147f-fced-4a88-893d-973491e4f870	trust_score: 88       reviews count: 544
+17	USA Hostels San Francisco		b9cdb973-7725-4b20-a312-a7c0e895c98c	trust_score: 87       reviews count: 1198
+18	Mandarin Oriental San Francisco		20af1faf-1085-4176-9c0c-a1d8cb94b628	trust_score: 89       reviews count: 258
+19	Orchard Garden Hotel		c49bc677-6e9c-459d-a967-4ddf3bf9dd82	trust_score: 87       reviews count: 970
+20	InterContinental Hotel San Francisco		50d36050-b167-4dbc-944e-d7513bc46838	trust_score: 86       reviews count: 2222
+21	Hotel Vitale		3ba30101-1c02-4868-8cd5-b3070f90f172	trust_score: 87       reviews count: 616
+22	Galleria Park, a Joie de Vivre hotel		e352e6ed-e1d4-4b8a-a9bc-046b1fc7c011	trust_score: 86       reviews count: 1116
+23	Jackson Court		1d5c0ddd-badf-4437-a4ab-e25a406fa2a1	trust_score: 91       reviews count: 87
+24	Wyndham Canterbury at San Francisco		a85a87af-05d1-49e8-9fb4-0cdfffbc629f	trust_score: 88       reviews count: 223
+25	Best Western Plus Tuscan Inn at Fisherman's Wharf		87a68ff8-fac4-4551-91b0-8c0a5af4ed3f	trust_score: 85       reviews count: 3527
+26	The Fairmont San Francisco		b8bd7576-594f-4313-b698-a3abf26c1821	trust_score: 85       reviews count: 2997
+27	Hotel Union Square		adfe5b6f-258a-4333-96d6-bf7f1bc6734f	trust_score: 85       reviews count: 2769
+28	Taj Campton Place		c2549f3e-dce9-4d13-a394-9de1c89bf025	trust_score: 86       reviews count: 546
+29	Monaco San Francisco - A Kimpton Hotel		a0b6ec2d-e845-4bc2-aba6-9eeb3665e4c9	trust_score: 85       reviews count: 1168
+30	Harbor Court - a Kimpton Hotel		a19114c8-b851-48aa-b3a0-1c6c56eeda7d	trust_score: 85       reviews count: 1024
+31	JW Marriott San Francisco Union Square		39cfea16-071f-4956-8daf-f8b4b8989737	trust_score: 85       reviews count: 941
+32	Hotel Nikko San Francisco		63f14bfe-aac7-4e87-91f1-48233ea92330	trust_score: 84       reviews count: 5267
+33	San Francisco Marriott Marquis		bcf5bf1f-9bbc-45be-8661-57af76a4dd55	trust_score: 84       reviews count: 3503
+34	MARINES MEMORIAL CLUB AND HOTEL		5e327cd3-bdda-4796-8770-a4780cd183b2	trust_score: 85       reviews count: 727
+35	Monte Cristo		f161b075-8ac4-4761-a509-4baaffd548d7	trust_score: 88       reviews count: 141
+36	Le M¨¦ridien San Francisco		c5e1c5f2-5d9e-4978-b817-2ca3f13156f1	trust_score: 84       reviews count: 2423
+37	Petite Auberge		22a14d47-93f0-4edb-ab08-b5b2ef86bf39	trust_score: 85       reviews count: 664
+38	The Suites at Fisherman's Wharf		3ad76ce6-d138-47b0-9480-d9d3aa839c88	trust_score: 91       reviews count: 62
+39	Coventry Motor Inn		2d9135c7-f754-482a-88ae-571ce562d771	trust_score: 84       reviews count: 1400
+40	Palomar San Francisco - a Kimpton Hotel		2ca701d3-7c66-4691-848d-b96359c5e43b	trust_score: 84       reviews count: 1188
+41	The Westin San Francisco Market Street		81d11f91-561f-45eb-985b-a21c58d69fc4	trust_score: 83       reviews count: 4059
+42	Courtyard by Marriott Fishermans Wharf		c3cab9fa-6ed9-4cb0-adcd-e2cf62b3a2b1	trust_score: 84       reviews count: 775
+43	Stanford Court San Francisco		84d98e1c-18f5-44d8-b04f-0830f04109ec	trust_score: 83       reviews count: 2510
+44	InterContinental Mark Hopkins		9f59edf8-327b-4b72-bf6f-68226a8ad06b	trust_score: 83       reviews count: 2464
+45	Palace Hotel, a Luxury Collection Hotel, San Francisco		b26e8b7e-4d3f-4a4b-943f-e3cbb4a2011a	trust_score: 83       reviews count: 2444
+46	Casa Luna San Francisco		cc7e4096-ff19-4ccd-99fd-ac776ef997ef	trust_score: 87       reviews count: 127
+47	Inn at the Presidio		1c7ad464-20c1-4b3f-adb1-2fe6bc62e3c6	trust_score: 92       reviews count: 42
+48	Parker Guest House		771184f2-cc5b-419f-91d1-9ed14fe7e47a	trust_score: 92       reviews count: 42
+49	Courtyard San Francisco Downtown		c81f7ff4-e3ce-42f8-92b2-27009b91adb8	trust_score: 83       reviews count: 1037
+50	Hotel Rex, a Joie de Vivre hotel		eec51d54-899e-4d04-8b51-d062d2753f70	trust_score: 83       reviews count: 986
